@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+#원더풀 연습 레파지토리
+---
+    2020년 10월 6일 화요일
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+깃헙을 처음 접하는 동기생을 위해 함께 실습해보는 시간을 갖습니다.
+
